@@ -16,10 +16,10 @@ public class InputValidator {
         while(true){
             try{
                 int choice=Integer.parseInt(sc.next());
-                if(choice >=1 && choice <=5){
+                if(choice >=1 && choice <=9){
                     return choice;
                 }
-                System.out.print("Enter a choice between 1 and 5: ");
+                System.out.print("Enter a choice between 1 and 9: ");
 
             }
             catch(NumberFormatException e){
