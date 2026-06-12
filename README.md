@@ -8,6 +8,10 @@ A menu-driven calculator built using Java.
 - Subtraction
 - Multiplication
 - Division
+- Modulus
+- Square Root
+- Power Function
+- Calculator History
 - Input Validation
 - Exception Handling
 
